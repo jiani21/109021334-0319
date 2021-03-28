@@ -1,8 +1,0 @@
-Name:
-Major:
-Birthday:
-Hobby:
-Elementary
-Junior High
-Senior High
-University
